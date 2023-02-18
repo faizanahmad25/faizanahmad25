@@ -23,7 +23,7 @@
 <a href="https://twitter.com/faizanahmad_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizanahmad_5" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faizan-ahmad-98b51725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizanahmad98" height="30" width="40" /></a>
 <a href="https://instagram.com/faizanahmad._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizanahmad._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr.faizan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.faizan25" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCE4FIXxTqvVGsXJQdfcf3aQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.faizan25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
