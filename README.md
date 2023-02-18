@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="faizanahmad25" /> </p>
 
-- 🔭 I’m currently working on **something really cool 😉**
+- 🔭 I’m currently working on **something really cool 😉;**
 
 - 🌱 I’m currently learning **everything 🤣;**
 
